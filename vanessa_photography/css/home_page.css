@@ -1,0 +1,122 @@
+body {
+
+   min-height: 1200px;
+
+}
+
+/*---------------------------
+     blue color   #003366
+     dark grey   #191919
+
+---------------------------*/
+
+
+
+.nav_des_styles {
+
+ height: 5rem;
+
+}
+
+.about_btn {
+
+   border-radius: 0px;
+
+
+}
+
+.desise_banner_home {
+    margin-top: 1rem;
+    margin-bottom: auto;
+    background-size: cover;
+    background-image: url(../img/paris-1_1.jpg);
+    height: 50rem;
+    width: 100%;
+
+}
+
+.desise_banner_home {
+    margin-top: 1rem;
+    margin-bottom: auto;
+    background-size: cover;
+    background-image: url(../img/paris-1_1.jpg);
+    height: 50rem;
+    width: 100%;
+
+}
+
+/*.mini_display {
+
+  height: 30rem;
+  width: auto;
+
+
+}*/
+
+.display_image_1 {
+  background-size: cover;
+  background-image: url(../img/Blossom_a.jpg);
+  height: 30rem;
+  width: 100%;
+
+}
+
+
+
+
+.display_image_2 {
+  background-size: cover;
+  background-image: url(../img/imagejpeg.jpg);
+  height: 30rem;
+
+}
+
+
+
+
+
+
+.display_image_3 {
+  background-size: cover;
+  background-image: url(../img/paris_2.2.jpg);
+  height: 30rem;
+  width: 100%;
+
+}
+
+
+
+
+
+
+.display_image_4 {
+  background-size: cover;
+  background-image: url(../img/Blossom_a.jpg);
+  height: 30rem;
+  width: 100%;
+}
+
+
+
+
+.display_image_5 {
+
+}
+
+
+
+
+
+
+.display_image_6 {
+
+}
+
+
+
+
+
+
+.display_image_7 {
+
+}
