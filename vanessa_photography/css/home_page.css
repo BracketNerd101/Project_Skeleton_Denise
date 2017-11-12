@@ -1,6 +1,6 @@
 body {
 
-   min-height: 1200px;
+
 
 }
 
@@ -12,9 +12,25 @@ body {
 
 
 
+/*------------------------------------
+
+font-family: 'Titillium Web', sans-serif;
+font-family: 'Nunito', sans-serif;
+font-family: 'Rozha One', serif;
+font-family: 'Playfair Display', serif;
+font-family: 'Ubuntu', sans-serif;
+
+------------------------------------*/
+
 .nav_des_styles {
 
  height: 5rem;
+
+}
+
+.nav_logo_styles {
+
+ font-family: 'Playfair Display', serif;
 
 }
 
@@ -22,6 +38,12 @@ body {
 
    border-radius: 0px;
 
+}
+
+.scroll_btn {
+
+   border-radius: 0px;
+   margin-top: 5rem;
 
 }
 
@@ -35,6 +57,16 @@ body {
 
 }
 
+.sub_header {
+
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 1.2rem;
+    /*background-color: rgba(0, 0, 0, 0.3);
+    padding-top: 1rem;
+    padding-bottom: 1rem;*/
+
+}
+
 .desise_banner_home {
     margin-top: 1rem;
     margin-bottom: auto;
@@ -45,13 +77,42 @@ body {
 
 }
 
-/*.mini_display {
+.desise_banner_header {
 
-  height: 30rem;
-  width: auto;
+  margin-top: 15rem;
+  font-family: 'Playfair Display', serif;
+  background-color: rgba(0, 0, 0, 0.3);
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+
+}
+
+.mini_collections_1 {
+  background-size: cover;
+  background-image: url(../img/sunset.jpg);
+  height: 25rem;
+  width: 100%;
+
+}
 
 
-}*/
+.mini_collections_2 {
+  background-size: cover;
+  background-image: url(../img/waterfall.jpg);
+  height: 25rem;
+  width: 100%;
+
+}
+
+
+.mini_collections_3 {
+
+  background-size: cover;
+  background-image: url(../img/cat.jpg);
+  height: 25rem;
+  width: 100%;
+
+}
 
 .display_image_1 {
   background-size: cover;
@@ -61,62 +122,57 @@ body {
 
 }
 
-
-
-
 .display_image_2 {
   background-size: cover;
   background-image: url(../img/imagejpeg.jpg);
   height: 30rem;
+  width: 100%;
 
 }
-
-
-
-
-
 
 .display_image_3 {
+  margin-bottom: auto;
   background-size: cover;
-  background-image: url(../img/paris_2.2.jpg);
-  height: 30rem;
+  background-image: url(../img/vanessA_02.jpg);
+  height: 50rem;
   width: 100%;
 
 }
-
-
-
-
-
 
 .display_image_4 {
-  background-size: cover;
-  background-image: url(../img/Blossom_a.jpg);
-  height: 30rem;
-  width: 100%;
+  background-color: #3b5998;
+  height: 50rem;
+  width: auto;
 }
 
+.about_mini_section {
 
-
-
-.display_image_5 {
-
-}
-
-
-
-
-
-
-.display_image_6 {
+    margin-top: 15rem;
+    font-family: 'Ubuntu', sans-serif;
 
 }
 
+.about_mini_call {
+
+    margin-top: 5rem;
+    margin-bottom: 3rem;
+    font-family: 'Ubuntu', sans-serif;
+
+}
+
+.footer {
+
+  height: inherit;
+  margin-top: auto;
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+
+}
 
 
+.footer_text_styles {
 
+ font-size: 0.8rem;
 
-
-.display_image_7 {
 
 }
