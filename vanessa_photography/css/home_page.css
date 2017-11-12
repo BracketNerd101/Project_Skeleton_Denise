@@ -25,6 +25,7 @@ font-family: 'Ubuntu', sans-serif;
 .nav_des_styles {
 
  height: 5rem;
+ background-color: rgba(0, 0, 0, 0.7);
 
 }
 
@@ -48,8 +49,7 @@ font-family: 'Ubuntu', sans-serif;
 }
 
 .desise_banner_home {
-    margin-top: 1rem;
-    margin-bottom: auto;
+    margin-top: 2rem;
     background-size: cover;
     background-image: url(../img/paris-1_1.jpg);
     height: 50rem;
@@ -98,7 +98,7 @@ font-family: 'Ubuntu', sans-serif;
 
 .mini_collections_2 {
   background-size: cover;
-  background-image: url(../img/waterfall.jpg);
+  background-image: url(../img/derosette.jpg);
   height: 25rem;
   width: 100%;
 
@@ -108,7 +108,7 @@ font-family: 'Ubuntu', sans-serif;
 .mini_collections_3 {
 
   background-size: cover;
-  background-image: url(../img/cat.jpg);
+  background-image: url(../img/paris_2.2.jpg);
   height: 25rem;
   width: 100%;
 
