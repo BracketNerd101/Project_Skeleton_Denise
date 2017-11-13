@@ -1,6 +1,6 @@
 body {
 
-
+font-size: 14px;
 
 }
 
@@ -31,7 +31,7 @@ font-family: 'Ubuntu', sans-serif;
 
 .nav_logo_styles {
 
- font-family: 'Playfair Display', serif;
+ font-family: 'Ubuntu', sans-serif;
 
 }
 
@@ -49,7 +49,7 @@ font-family: 'Ubuntu', sans-serif;
 }
 
 .desise_banner_home {
-    margin-top: 2rem;
+    margin-top: -1rem !important;
     background-size: cover;
     background-image: url(../img/paris-1_1.jpg);
     height: 50rem;
@@ -60,10 +60,8 @@ font-family: 'Ubuntu', sans-serif;
 .sub_header {
 
     font-family: 'Ubuntu', sans-serif;
-    font-size: 1.2rem;
-    /*background-color: rgba(0, 0, 0, 0.3);
-    padding-top: 1rem;
-    padding-bottom: 1rem;*/
+    font-size: 1.8rem;
+   
 
 }
 
@@ -87,7 +85,59 @@ font-family: 'Ubuntu', sans-serif;
 
 }
 
-.mini_collections_1 {
+#text_link_defined {
+    
+    text-decoration: none;
+}
+
+
+  .mini_display {
+    
+   opacity: 1;
+   transition: 0.4s;
+   font-size; 8rem !important;
+   
+}
+
+
+
+ .mini_display:hover {
+    
+    opacity: 0.7;
+    transition: 0.4s;
+    font-size; 8rem !important;
+    
+}
+
+ .mini_display_text {
+    
+     opacity: 0;
+     transition: 0.8s;
+     transition-duration: 1.2s;
+     transition-delay: 0.1s;
+     font-family: 'Playfair Display', serif;
+     text-decoration: none !important;
+     padding-top: 10rem;
+     padding-bottom: 8rem;
+     margin-top: 3rem;
+      
+}
+
+ .mini_display_text:hover {
+    
+     opacity: 1;
+     transition: 0.8s;
+     transition-duration: 1.2s;
+     transition-delay: 0.1s;
+     font-family: 'Playfair Display', serif;
+     text-decoration: none !important;
+     padding-top: 10rem;
+     padding-bottom: 8rem;
+     margin-top: 3rem;
+    
+}
+
+ .mini_collections_1 {
   background-size: cover;
   background-image: url(../img/sunset.jpg);
   height: 25rem;
