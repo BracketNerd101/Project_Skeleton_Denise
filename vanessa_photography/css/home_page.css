@@ -61,7 +61,7 @@ font-family: 'Ubuntu', sans-serif;
 
     font-family: 'Ubuntu', sans-serif;
     font-size: 1.8rem;
-   
+
 
 }
 
@@ -79,38 +79,38 @@ font-family: 'Ubuntu', sans-serif;
 
   margin-top: 15rem;
   font-family: 'Playfair Display', serif;
-  background-color: rgba(0, 0, 0, 0.3);
+  /*background-color: rgba(0, 0, 0, 0.3);*/
   padding-top: 1rem;
   padding-bottom: 1rem;
 
 }
 
 #text_link_defined {
-    
+
     text-decoration: none;
 }
 
 
   .mini_display {
-    
+
    opacity: 1;
    transition: 0.4s;
    font-size; 8rem !important;
-   
+
 }
 
 
 
  .mini_display:hover {
-    
+
     opacity: 0.7;
     transition: 0.4s;
     font-size; 8rem !important;
-    
+
 }
 
  .mini_display_text {
-    
+
      opacity: 0;
      transition: 0.8s;
      transition-duration: 1.2s;
@@ -120,11 +120,11 @@ font-family: 'Ubuntu', sans-serif;
      padding-top: 10rem;
      padding-bottom: 8rem;
      margin-top: 3rem;
-      
+
 }
 
  .mini_display_text:hover {
-    
+
      opacity: 1;
      transition: 0.8s;
      transition-duration: 1.2s;
@@ -134,7 +134,7 @@ font-family: 'Ubuntu', sans-serif;
      padding-top: 10rem;
      padding-bottom: 8rem;
      margin-top: 3rem;
-    
+
 }
 
  .mini_collections_1 {
